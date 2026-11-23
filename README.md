@@ -12,7 +12,7 @@ Construir y evaluar un prototipo de clasificación que estime la probabilidad de
 
 ## Contenido del repositorio
 
-- `AURORA_SCORE_2_0_12pct_GB_revisado_ejecutado.ipynb`: notebook principal con generación de datos, análisis exploratorio, preparación de variables, entrenamiento, evaluación y conclusiones.
+- `AURORA_SCORE_REBOOT.ipynb`: notebook principal con generación de datos, análisis exploratorio, preparación de variables, entrenamiento, evaluación y conclusiones.
 
 ## Datos y alcance experimental
 
@@ -63,7 +63,7 @@ El notebook contempla las siguientes etapas:
    jupyter notebook
    ```
 
-5. Abre `AURORA_SCORE_2_0_12pct_GB_revisado_ejecutado.ipynb` y ejecuta las celdas en orden.
+5. Abre `AURORA_SCORE_REBOOT.ipynb` y ejecuta las celdas en orden.
 
 ## Limitaciones
 
